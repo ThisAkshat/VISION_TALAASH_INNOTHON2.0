@@ -59,7 +59,7 @@ Frontend: Use React and Tailwind CSS for the frontend if you are building the fu
 
 Clone the Repository:
 
-git clone https://github.com/your-username/Talaash.git
+git clone https://github.com/ThisAkshat/VISION__TALAASH.git
 cd Talaash
 
 Install Required Packages:
@@ -95,7 +95,7 @@ Contributions are welcome! Please fork the repo and create a pull request.
 
 📧 Contact
 
-For any queries, reach out to me at your-email@example.com
+For any queries, reach out to me at akshatsharma1313@gmail.com
 
 🌐 License
 
