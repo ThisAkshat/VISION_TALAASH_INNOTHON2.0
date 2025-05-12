@@ -16,13 +16,13 @@ whatsapp_alert = True  # enable WhatsApp alerts
 db_config = {
     'host': 'localhost',
     'user': 'root',
-    'password': '#01Nov2003',
+    'password': '#your_password',
     'database': 'talaash_db'
 }
 
 
-ultramsg_instance_id = 'instance119286' 
-ultramsg_token = 'r6bxw9kgyvfmum72'  
+ultramsg_instance_id = '#USE your instance_id' 
+ultramsg_token = '#USE yours Ultramsg_token'  
 
 
 engine = pyttsx3.init()
